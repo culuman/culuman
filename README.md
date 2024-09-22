@@ -1,4 +1,4 @@
-<h1>Hi! My Name is Nikola Ćuluman 😄</h1>
+<h1>Hi! My Name is Nikola Ćuluman</h1>
 
 <p>🖥 I am working on becoming a Front-End React Developer.</p>
 
