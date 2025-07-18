@@ -4,5 +4,5 @@
 
 <h3>Skills that I'm learning:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind" />
 </a>
